@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="facebook">Entrar com Facebook    </string>
+    <string name="one">Ofertas</string>
+    <string name="two">Pedidos</string>
+    <string name="three">Últimos</string>
 </resources>
