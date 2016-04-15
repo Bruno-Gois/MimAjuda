@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="facebook">Entrar com Facebook    </string>
+    <string name="facebook_app_id">220913768277574</string>
 </resources>
